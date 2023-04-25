@@ -8,7 +8,7 @@
 
 module purge
 cd /scratch/rg4232
-conda activate mobile_diengine
+conda activate mobile_di_37
 cd Code
 python gym_mobile_rnd_onppo_config.py
 
